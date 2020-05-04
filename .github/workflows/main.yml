@@ -9,10 +9,14 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Install dependencies
-        run: yarn
+        uses: ianwalter/puppeteer@12728ddef82390d1ecd4732fb543f62177392fbb
+        with:
+          args: yarn
 
       - name: Build
         run: yarn build
 
       - name: Test
-        run: yarn test
+        uses: ianwalter/puppeteer@12728ddef82390d1ecd4732fb543f62177392fbb
+        with:
+          args: yarn test
