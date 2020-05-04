@@ -1,3 +1,3 @@
 ## Architecture
 
-![alt text](https://github.com/rodrigo/beer-temperature-app/architecture.jpg 'architecture')
+![alt text](https://github.com/rodrigopavezi/beer-temperature-app/blob/master/design/architecuture/architecture.jpg 'architecture')
