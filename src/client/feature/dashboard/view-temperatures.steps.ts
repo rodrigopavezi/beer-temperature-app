@@ -27,9 +27,7 @@ defineFeature(feature, (test) => {
         moxios.install();
         truckService = new TruckService();
 
-        browser = await puppeteer.launch({
-            headless: true,
-        });
+        browser = await puppeteer.launch({ executablePath: 'google-chrome-stable', args: ['--no-sandbox'] });
         page = await browser.newPage();
 
         page.emulate({
