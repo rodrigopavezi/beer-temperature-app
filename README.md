@@ -2,10 +2,10 @@
 
 This is an app to show drivers from PragmaBrewery delivery trucks the beer containers temperature status based on the beer temperature range.
 
-![alt text](https://github.com/rodrigo/beer-temperature-app/preview.png 'preview')
+![alt text](https://github.com/rodrigopavezi/beer-temperature-app/blob/master/preview.png 'preview')
 
--   [Jobs to be Done](https://github.com/rodrigopavezi/beer-temperature-app/design/jtbd)
--   [Architecture](https://github.com/rrodrigopavezi/beer-temperature-app/design/architecture)
+-   [Jobs to be Done](https://github.com/rodrigopavezi/beer-temperature-app/tree/master/design/jtbd)
+-   [Architecture](https://github.com/rodrigopavezi/beer-temperature-app/tree/master/design/architecture)
 
 ## Getting Started
 
