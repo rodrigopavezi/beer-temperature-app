@@ -75,6 +75,12 @@ yarn test:unit
 yarn test:e2e
 ```
 
+### Run CI tests
+
+```
+yarn test:ci
+```
+
 ## Built With
 
 ```
