@@ -5,7 +5,7 @@ This is an app to show drivers from PragmaBrewery delivery trucks the beer conta
 ![alt text](https://github.com/rodrigopavezi/beer-temperature-app/blob/master/preview.png 'preview')
 
 -   [Jobs to be Done](https://github.com/rodrigopavezi/beer-temperature-app/tree/master/design/jtbd)
--   [Architecture](https://github.com/rodrigopavezi/beer-temperature-app/tree/master/design/architecture)
+-   [Architecture](https://github.com/rodrigopavezi/beer-temperature-app/tree/master/design/architecuture)
 
 ## Getting Started
 
