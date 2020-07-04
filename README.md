@@ -1,6 +1,6 @@
-# PragmaBrewery Temperature Monitor App
+# Brewery Temperature Monitor App
 
-This is an app to show drivers from PragmaBrewery delivery trucks the beer containers temperature status based on the beer temperature range.
+This is an app to show drivers from Brewery delivery trucks the beer containers temperature status based on the beer temperature range.
 
 ![alt text](https://github.com/rodrigopavezi/beer-temperature-app/blob/master/preview.png 'preview')
 
